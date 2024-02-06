@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "message": "Success get data",
+  "data": [
+    {
+      "id": 1,
+      "name": "Mercedes Benz",
+      "icon": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__",
+      "product": {}
+    }
+  ]
+}
