@@ -1,0 +1,41 @@
+{
+  "status": 200,
+  "message": "Success get data",
+  "data": [
+    {
+      "id": 1,
+      "name": "Mercedes Benz",
+      "icon": "https://s3-alpha-sig.figma.com/img/4217/e9ff/4f515eb5bc11bf1eece845bb7cd28793?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RVEQXzUJO~UE3YpCZajAYY4u5QGnrsuzYpnITTeOgdMpttI78ppSKgECHjOSMEGdn5q93BD45JBhVCJH2t53VKJZ0z99J4iLqQlq~5VExwEKTs6Tdupna4YjE2l2AwmuUq~3Glsp1zOHCO3vEGhMYJT4fwOY0P8rsmx0aHoy1z6VaO9Q3YrO9rnXgcbtTqaZ5BYcVJI3dMHqU8QH0wwkPE8mMk~pmQlGsnc4-JNM3nCq0r3KuDJK9CXpUJi8uBIG~65LKGIYBfKN~XNF2JabnCmnGVEk-qnUQQTqTblpsgauJCxl-Acnyuab39X7rAK-Y5Fyfxum5QvwAGv0fOEJ6g__",
+      "product_name": "EQA 250 Electric Art",
+      "product_image": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__"
+    },
+    {
+      "id": 2,
+      "name": "BYD",
+      "icon": "https://s3-alpha-sig.figma.com/img/37e7/e7b4/3f3e770d2fc00857388307b62e307b5c?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=B0wi438u1YwTG24ONsSXrPEGf3f6e3pMMTWpep3Fr2anI03fGX8NPKHso0W7LDQJ7~dBEsdIui7BdU5xJChY-66CdgBvp50NAORqZSbKy5XwBVL-SwUU6PWciieAJGlDaqYfEJ51mMzpT8EmC3ut4MSkhiSWNDPxz0tFn3lGpRAqF-~fbCQSuYMada2NBI3YKJjn-T0q3SBMDafv6nVwfkEWVUp2HSbShGpBYaHEvVKaSyZokdy04hXWgjXNZ6DVfa9AYMfyDo~lhvbFlcz93nc9vr5ZYbALhekwrCBD1hVbMHSkOnKDTMPjjabVUkz-N8GR5RO8gdIQiY4BsvHuKg__",
+      "product_name": "EQA 250 Electric Art",
+      "product_image": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__"
+    },
+    {
+      "id": 3,
+      "name": "Hyundai",
+      "icon": "https://s3-alpha-sig.figma.com/img/7402/fb38/e68c8bc14759fe3f6947abdebd03dc5d?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Iyw4R6ShaBpjp10DcVxHHJEpmKZzMjOK4yE~mjwr0cploX3IYVGzZzs9dJkbsz5M3J0sERpzpEznbLNR5Jw0Epzhig2sqitd1hLhyNul~rBC7KeMlFEXTypT2X3S57lTC3Po-Y1e1gsTP~kn6NXeDaNjSmGl0rJgKLekxqO0Z91VDuMWpkKfO5clKA4p-dhf16p6wPoWXgBh7dr9tCr5BAk8EIh50gfLHXII7jzmbOTa2sXf8zFn9JARhdboAk9BR3fGEE34w195URoDH7D8SV5oiT71-Dlgl6qouHFET1U53s4TM4QIc2cIxPNLTSFd15b868YH6Xz1AwxlXGk5og__",
+      "product_name": "EQA 250 Electric Art",
+      "product_image": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__"
+    },
+    {
+      "id": 4,
+      "name": "BMW",
+      "icon": "https://s3-alpha-sig.figma.com/img/9267/d356/6378f7e3023e25fcf80855e795dc66d1?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Bc3pjNImWiedcKuxh4NIwyHtvhNPmkWMfpLAvsQyA751JEEVaeKQjydgeYUY6iZBRKYBlmwRjWxclCUN-sH29AyCJun9xc3NhLEbyw3UzOsulhP9EuLTd7qEDf3T2zT8ObycVd2sYzN5kOWOi~86FyUPyGvMRMPbGNuTDfSCnp5SpbldyGNXB8C4e7XC5HnPNYL~8ZUHHEQkU1bGCniBzgoDC3dv~EVT5qP5dzSP~ION2bsaUPBUOhV2ouT1WP3nrf33ur9YiH5nNj~SBAqIF7mo~hKNl4r-RktK~jZA4raAFVAb2Go~6C~7ixoGgjzjLVwSEcIDZP0rKcD6-4RKGQ__",
+      "product_name": "EQA 250 Electric Art",
+      "product_image": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__"
+    },
+    {
+      "id": 5,
+      "name": "Wuling",
+      "icon": "https://s3-alpha-sig.figma.com/img/81bf/28ae/b88fda3f8a5e8500de904eb3ff6305d9?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KkL74z1RjS7iT0WPCYGHXbFooTTwp1nZF2CjQMR6BErnY1Jx7Jz-qc5~eJ~cSeMIZUhxuGUYdVF8ADCpqICaWsNx2DloyKianX3f302IqTfjBU2xQuN-RDCYcGyyKx8X01femkA54cF5deZjPCctrtDxpG6zGH5AMoH9MYYC8hNMPtoSWXKasJKkCZor7VgFhnaqE4GQ-YojwCqGNjI6kZ~7YA0JBS91dqMLLS~Wpu0c0puJEhWMAq3v5b6VtZ1481snuKjqFbuVB3~~GtctAOJUGyJJkyoJsyzegyWaFjFXLeKej095V1MET~zxkZP6xVaPRxBGNowBQkp1-qgypQ__",
+      "product_name": "EQA 250 Electric Art",
+      "product_image": "https://s3-alpha-sig.figma.com/img/4879/29b1/9665d8ea28127d6ad8c50d4986bc8c8e?Expires=1708300800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oQZ3GRqddvTFeP4Fxs1vuEP6wmK0zk78hLq5XqzNBelfIGJ4NFOJvfGBAEEr-Xw1KefygSKERwyNmc~TYpVt-T5h7YBEB8wmpTCF8PjPhuTMWt2ef9DncFll6EXbKjhE4S~kVGl9PAUvPiofYsmJTZXigCsI6LF1y8pVuU5DHnOFH8zjFqp8fNBxpt2HEpjd9kJ4OWy6j76SUgaZ2yD8KDokwAj8fiqr3UZkQZQLNhv642wZK-xFNtrCCwi3QSECk-WTY8Z0~bZ5-qtsETf7a4yyXSrK8lVhb8Vc-SWyZ25yWO0ZMm3dx-NVA5b6ahlyH8gQPB4nDkJ2xlFH7Qm9oA__"
+    }
+  ]
+}
